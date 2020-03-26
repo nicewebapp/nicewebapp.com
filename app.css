@@ -1,0 +1,17 @@
+body {
+  color: #c9cacc;
+  background-color: #1d1f21;
+  font-family: monospace;
+}
+h1 {
+  font-size: 1.5em;
+  color: #2bbc8a;
+}
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+a {
+  color: #c9cacc;
+}
